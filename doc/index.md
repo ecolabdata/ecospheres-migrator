@@ -95,4 +95,4 @@ Assurez-vous également d'appliquer la transformation à vos modèles (template)
 
 ### <a name="utilisation-tutoriel"></a>Tutoriel
 
-En construction...
+Le [Guide du moissonnage des plateformes Prodige par data.gouv.fr](https://www.prodige-opensource.org/accueil/tutoriels-v5/diffusion-des-donnees/le-guide-du-moissonnage-des-plateformes-prodige-par-datagouv) décrit l'utilisation pas à pas d'ISOmorphe, applicable à tout Geonetwork même hors Prodige.
